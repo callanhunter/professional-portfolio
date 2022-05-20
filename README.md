@@ -4,7 +4,7 @@
 
 # Description
 
-###
+### An updated portfolio using the CSS Framework, UIkit. This portfolio contains multiple pages for the home page, contact info, about me, and projects.
 
 # Table of contents
 
@@ -15,7 +15,7 @@
 
 # Usage
 
-### Link to video walkthrough:
+### Link to video walkthrough: https://drive.google.com/file/d/1Yj-eVYHLGgfcA63mxdmaIT1Te6JLKxLX/view
 
 # Languages Used
 
@@ -28,3 +28,7 @@
 ### LinkedIn: https://www.linkedin.com/in/callan-hunter-195816196/
 
 ### GitHub: https://github.com/callanhunter
+
+# Questions
+
+### Email me @callan57hunter@gmail.com
